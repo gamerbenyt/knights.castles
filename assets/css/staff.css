@@ -93,6 +93,12 @@ h2 {
 	color: cyan;
 }
 
+.logo img {
+	width: 150px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
 /* Meter */
 .meter-container {
 	text-align: left;

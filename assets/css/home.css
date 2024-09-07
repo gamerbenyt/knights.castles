@@ -12,8 +12,8 @@ header {
 	text-align: center;
 	box-sizing: border-box;
 	min-height: 100vh;
-	background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.55) 70%, rgba(66, 134, 244, 0.45) 99%),
-	url("../images/minecraft.png") no-repeat center center;
+	background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.55) 70%, rgba(97, 109, 132, 0.45) 99%),
+	url("https://cdn.modrinth.com/data/MTOTFlRo/images/3a7bd6fbddb8a070a51ddd9b9f11ab7e36bd3ca3.png") no-repeat center center;
 	background-size: cover;
 }
 

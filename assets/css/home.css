@@ -39,15 +39,17 @@ header {
 	color: cyan;
 }
 
-.logo img{
-	width: 150px;
-	margin-left: 30px;
-	margin-top: 20px;
-}
+
 .img {
 	transition: all 0.4s ease;
 	padding-bottom: 10px;
 	max-width: 200px;
+}
+
+.logo img {
+	width: 150px;
+	margin-left: 30px;
+	margin-top: 20px;
 }
 
 .img:hover {
